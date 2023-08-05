@@ -1,0 +1,12 @@
+[
+    {   
+        "name":"Mathematical Foundations of Data Science",
+        "Description":"Teaches the basic mathematical theory behind data science.",
+        "Collaborators":[["User1","User2","User3"]]
+    },
+    {
+        "name":"Introduction to Programming",
+        "Description":"Teaches the basic mathematical theory of programming in C language.",
+        "Collaborators":[["User1","User3"]] 
+    }
+]

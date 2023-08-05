@@ -1,0 +1,25 @@
+.Panel {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 2px;
+  }
+  
+  /* Styling for the photo container on the left */
+  .CoursePhoto {
+    width: 15%;
+    /* height: 100%; */
+    display: flex;
+    margin-right: 10px; /* Add some spacing between the photo and content */
+    overflow: hidden; /* Ensure photo won't overflow if it's larger than the container */
+  }
+  
+  /* Style the image inside the photo container */
+
+  
+  /* Styling for the content on the right */
+  .CourseInfo {
+    flex: 1; /* Take up the remaining available space */
+  }
